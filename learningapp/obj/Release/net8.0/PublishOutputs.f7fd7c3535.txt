@@ -1,0 +1,7 @@
+C:\DotNetProjSac\AZ204 Alan\11 Basic auto Code\learningapp\bin\Publish\learningapp.exe
+C:\DotNetProjSac\AZ204 Alan\11 Basic auto Code\learningapp\bin\Publish\appsettings.Development.json
+C:\DotNetProjSac\AZ204 Alan\11 Basic auto Code\learningapp\bin\Publish\appsettings.json
+C:\DotNetProjSac\AZ204 Alan\11 Basic auto Code\learningapp\bin\Publish\learningapp.dll
+C:\DotNetProjSac\AZ204 Alan\11 Basic auto Code\learningapp\bin\Publish\learningapp.deps.json
+C:\DotNetProjSac\AZ204 Alan\11 Basic auto Code\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\DotNetProjSac\AZ204 Alan\11 Basic auto Code\learningapp\bin\Publish\learningapp.pdb
